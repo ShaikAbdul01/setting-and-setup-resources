@@ -1,0 +1,1 @@
+vs code -> code runner(extension)->settion.json->select all then paste
